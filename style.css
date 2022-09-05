@@ -4,7 +4,7 @@
     box-sizing: border-box;
   }
   body {
-    background: url('img/bg.jpg') no-repeat center;
+    background: url('https://central.edu.gh/directory/gallery/news/EON%20CU%20PARTNERSHIP.jpeg') no-repeat center;
     background-size: cover;
     font-family: sans-serif;
   }
@@ -14,7 +14,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #992621;
+    
   }
   .form {
     position: relative;
